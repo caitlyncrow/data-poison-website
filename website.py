@@ -7,3 +7,14 @@ def home():
 
 if __name__ == "__main__":
     app.run()
+
+#What To Do If Can't Push Changes Right Away:
+#cd data-poison-website
+#git pull
+#git push
+    
+def hello():
+    return 0
+
+def hello2():
+    return 1
